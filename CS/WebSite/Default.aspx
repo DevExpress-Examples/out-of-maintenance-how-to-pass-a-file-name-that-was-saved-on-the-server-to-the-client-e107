@@ -1,7 +1,7 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="ASPxperience_UploadControl_CallbackData" %>
 
 
-<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web"
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
     TagPrefix="dx" %>
 
 
